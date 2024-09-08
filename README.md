@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Painter602
 - 👀 I’m interested in ...
 
-	Games: current main game is Elite Dangerous, but I also play Civilization and Crusader Kings.
+	Games: current main game is Star Citizen, and Civilization VI.
+	Other games have included Elite Dangerous and Crusader Kings.
 	
 	Graphics software: Affinity, and Blender
 	
-	Programming environment: currently Python
+	Programming environment: currently Rust and Python
 	
 	I have a background in --ix environments and SQL databases.
          
@@ -13,7 +14,7 @@
 - 💞️ I’m looking to collaborate on ... ??? If it grabs my attention
 - 📫 How to reach me ... Probably best to raise an issue here?
 
- 	For Virpil stuff, you can message me (Painter) on their forum
+ For Virpil stuff, you can message me (Painter) on their forum
 
 <!---
 Painter602/Painter602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
